@@ -1,1 +1,5 @@
-# Hello_world
+#include<studio.h>
+int main() {
+   Printf("hello world);
+    return 0;
+}
